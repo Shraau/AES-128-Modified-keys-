@@ -1,0 +1,6 @@
+{
+    "count" : 2500000,
+    "number_of_files" : 1,
+    "file_location" : "data",
+    "which_aes" : ["my_aes"]
+}
